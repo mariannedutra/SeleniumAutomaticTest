@@ -1,3 +1,5 @@
+## Atividade - Marianne e Iury 
+
 ### Instalar dependências:
 
 ```
@@ -13,5 +15,5 @@ cd features
 ### Executar os testes
 
 ```
-python -m behave
+ behave swag_labs.feature -v
 ```
